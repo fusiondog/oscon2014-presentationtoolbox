@@ -1,14 +1,14 @@
 A presentation
-# Toolbox
-That Might Blow Your Audience Away
+#From OSCON 
+Using a Toolbox That Might Blow Your Audience Away
 
 
 This is about
 # tools
 
 
-Not
-# delivery
+And
+# culture
 
 
 Not
